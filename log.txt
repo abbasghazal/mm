@@ -1,0 +1,46 @@
+[15-Sep-25 12:34:54 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Ã‹«—ˆ «·« ’‹«· »ﬁ«⁄‹œ… «·»Ì«‰‹«  . . .
+[15-Sep-25 12:34:55 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Git Client Found [VPS DEPLOYER]
+[15-Sep-25 12:34:55 - INFO] - MatrixMusic.misc - Local Database Initialized.
+[15-Sep-25 12:34:55 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ” - Ã«—ˆ »œ¡  ‘€Ì· «·»Ê  . . .
+[15-Sep-25 12:37:58 - INFO] - MatrixMusic.misc - Sudoers Loaded.
+[15-Sep-25 12:39:04 - ERROR] - MatrixMusic.core.bot - ª ﬁ„ »«÷«›… «·»‹Ê  „‘‹—›‹« »ﬂ«›… «·’·«ÕÌ«  ›Ì „Ã„Ê⁄‹… «·”Ã‹·
+[15-Sep-25 12:45:51 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Ã‹«—ˆ «·« ’‹«· »ﬁ«⁄‹œ… «·»Ì«‰‹«  . . .
+[15-Sep-25 12:45:51 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Git Client Found [VPS DEPLOYER]
+[15-Sep-25 12:45:51 - INFO] - MatrixMusic.misc - Local Database Initialized.
+[15-Sep-25 12:45:51 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ” - Ã«—ˆ »œ¡  ‘€Ì· «·»Ê  . . .
+[15-Sep-25 12:46:12 - INFO] - MatrixMusic.misc - Sudoers Loaded.
+[15-Sep-25 12:46:17 - ERROR] - MatrixMusic.core.bot - ª ﬁ„ »«÷«›… «·»‹Ê  „‘‹—›‹« »ﬂ«›… «·’·«ÕÌ«  ›Ì „Ã„Ê⁄‹… «·”Ã‹·
+[15-Sep-25 13:20:12 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Ã‹«—ˆ «·« ’‹«· »ﬁ«⁄‹œ… «·»Ì«‰‹«  . . .
+[15-Sep-25 13:20:12 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Git Client Found [VPS DEPLOYER]
+[15-Sep-25 13:20:12 - INFO] - MatrixMusic.misc - Local Database Initialized.
+[15-Sep-25 13:20:12 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ” - Ã«—ˆ »œ¡  ‘€Ì· «·»Ê  . . .
+[15-Sep-25 13:20:33 - INFO] - MatrixMusic.misc - Sudoers Loaded.
+[15-Sep-25 13:20:56 - ERROR] - MatrixMusic.core.bot - ª ﬁ„ »«÷«›… «·»‹Ê  „‘‹—›‹« »ﬂ«›… «·’·«ÕÌ«  ›Ì „Ã„Ê⁄‹… «·”Ã‹·
+[15-Sep-25 21:12:08 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Ã‹«—ˆ «·« ’‹«· »ﬁ«⁄‹œ… «·»Ì«‰‹«  . . .
+[15-Sep-25 21:12:08 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Git Client Found [VPS DEPLOYER]
+[15-Sep-25 21:12:08 - INFO] - MatrixMusic.misc - Local Database Initialized.
+[15-Sep-25 21:12:08 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ” - Ã«—ˆ »œ¡  ‘€Ì· «·»Ê  . . .
+[15-Sep-25 21:12:59 - INFO] - MatrixMusic.misc - Sudoers Loaded.
+[15-Sep-25 21:13:12 - ERROR] - MatrixMusic.core.bot - 1002718737593
+[15-Sep-25 21:13:14 - ERROR] - MatrixMusic.core.bot - ª ﬁ„ »«÷«›… «·»‹Ê  „‘‹—›‹« »ﬂ«›… «·’·«ÕÌ«  ›Ì „Ã„Ê⁄‹… «·”Ã‹·
+[15-Sep-25 21:14:03 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Ã‹«—ˆ «·« ’‹«· »ﬁ«⁄‹œ… «·»Ì«‰‹«  . . .
+[15-Sep-25 21:14:03 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Git Client Found [VPS DEPLOYER]
+[15-Sep-25 21:14:03 - INFO] - MatrixMusic.misc - Local Database Initialized.
+[15-Sep-25 21:14:03 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ” - Ã«—ˆ »œ¡  ‘€Ì· «·»Ê  . . .
+[15-Sep-25 21:14:06 - INFO] - MatrixMusic.misc - Sudoers Loaded.
+[15-Sep-25 21:14:09 - ERROR] - MatrixMusic.core.bot - -1002718737593
+[15-Sep-25 21:14:10 - ERROR] - MatrixMusic.core.bot - ª ﬁ„ »«÷«›… «·»‹Ê  „‘‹—›‹« »ﬂ«›… «·’·«ÕÌ«  ›Ì „Ã„Ê⁄‹… «·”Ã‹·
+[19-Sep-25 21:01:51 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Ã‹«—ˆ «·« ’‹«· »ﬁ«⁄‹œ… «·»Ì«‰‹«  . . .
+[19-Sep-25 21:01:52 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Git Client Found [VPS DEPLOYER]
+[19-Sep-25 21:01:52 - INFO] - MatrixMusic.misc - Local Database Initialized.
+[19-Sep-25 21:01:52 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ” - Ã«—ˆ »œ¡  ‘€Ì· «·»Ê  . . .
+[19-Sep-25 21:02:51 - INFO] - MatrixMusic.misc - Sudoers Loaded.
+[19-Sep-25 21:02:57 - ERROR] - MatrixMusic.core.bot - -1002718737593
+[19-Sep-25 21:02:58 - ERROR] - MatrixMusic.core.bot - ª ﬁ„ »«÷«›… «·»‹Ê  „‘‹—›‹« »ﬂ«›… «·’·«ÕÌ«  ›Ì „Ã„Ê⁄‹… «·”Ã‹·
+[19-Sep-25 21:19:59 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Ã‹«—ˆ «·« ’‹«· »ﬁ«⁄‹œ… «·»Ì«‰‹«  . . .
+[19-Sep-25 21:20:00 - INFO] - „Ì‹‹Ê“ﬂ „« —ﬂ‹” - Git Client Found [VPS DEPLOYER]
+[19-Sep-25 21:20:00 - INFO] - MatrixMusic.misc - Local Database Initialized.
+[19-Sep-25 21:20:00 - INFO] - „Ì‹‹Ê“ﬂ »Õ— - Ã«—ˆ »œ¡  ‘€Ì· «·»Ê  . . .
+[19-Sep-25 21:20:17 - INFO] - MatrixMusic.misc - Sudoers Loaded.
+[19-Sep-25 21:20:29 - ERROR] - MatrixMusic.core.bot - Bot has failed to access the log group/channel.
+  Reason : ValueError.
